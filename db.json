@@ -41,7 +41,23 @@
       "email": "0000@naver.com",
       "phone": "010-0000-0000",
       "expiry_date": null,
-      "name": "master"
+      "name": "bookshopmap"
+    },
+    ,
+    "webookbang": {
+      "created_date": "2021-10-13 00:00:00",
+      "email": "0000@naver.com",
+      "phone": "010-0000-0000",
+      "expiry_date": null,
+      "name": "bookshopmap"
+    },
+    ,
+    "whoshe": {
+      "created_date": "2021-10-13 00:00:00",
+      "email": "0000@naver.com",
+      "phone": "010-0000-0000",
+      "expiry_date": null,
+      "name": "bookshopmap"
     },
     "unknown": {
       "created_date": "2021-10-13 00:00:00",
