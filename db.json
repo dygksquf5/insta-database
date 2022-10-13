@@ -3,9 +3,9 @@
     "version": "5_0_0"
   },
   "platform": {
-    "m1" : "https://www.dropbox.com/s/dbzy5n0xqfwb2du/%5Bm1%5Dinsta-auto_5_0_0.zip?dl=0",
-    "intel": "",
-    "window": ""
+    "m1" : "https://www.dropbox.com/s/zkol5s3o9mbuskj/%5Bm1%5Dinsta-auto.5_0_0.zip?dl=0",
+    "intel": "https://www.dropbox.com/s/az0wtzugcslcwr5/%5Bintel%5Dinsta-auto.5_0_0.zip?dl=0",
+    "window": "https://www.dropbox.com/s/xpqnn5s13nx1r3m/%5Bwindow%5Dinsta-auto.5_0_0.zip?dl=0"
   },
   "users": {
     "yosuniiiii": {
