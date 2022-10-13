@@ -1,6 +1,10 @@
 {
-  "version": "",
-  "m1": "",
+  "version": {
+    "version": "5_0_0"
+  },
+  "platform": {
+    "m1" : ""
+  },
   "users": {
     "yosuniiiii": {
       "created_date": "2021-01-01",
