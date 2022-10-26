@@ -93,12 +93,12 @@
       "expiry_date": null,
       "name": "jaewoo_96_"
     },
-    "unknown": {
-      "created_date": "2021-10-13 00:00:00",
+    "mc_powerpoint": {
+      "created_date": "2021-10-26 00:00:00",
       "email": "0000@naver.com",
       "phone": "010-0000-0000",
       "expiry_date": null,
-      "name": "master"
+      "name": "mc_powerpoint"
     }
   }
 }
