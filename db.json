@@ -113,6 +113,13 @@
       "phone": "010-0000-0000",
       "expiry_date": null,
       "name": "hjs5292"
+    },
+    "lawart.kim": {
+      "created_date": "2021-11-23 00:00:00",
+      "email": "0000@naver.com",
+      "phone": "010-0000-0000",
+      "expiry_date": null,
+      "name": "lawart.kim"
     }
   }
 }
