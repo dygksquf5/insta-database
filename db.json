@@ -134,6 +134,20 @@
       "phone": "010-0000-0000",
       "expiry_date": null,
       "name": "894ceo"
+    },
+    "widu_withyou": {
+      "created_date": "2021-11-29 00:00:00",
+      "email": "0000@naver.com",
+      "phone": "010-0000-0000",
+      "expiry_date": null,
+      "name": "widu_withyou"
+    },
+    "cpjywd": {
+      "created_date": "2021-11-29 00:00:00",
+      "email": "0000@naver.com",
+      "phone": "010-0000-0000",
+      "expiry_date": null,
+      "name": "widu_withyou"
     }
   }
 }
