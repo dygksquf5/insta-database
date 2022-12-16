@@ -204,6 +204,20 @@
       "phone": "010-0000-0000",
       "expiry_date": null,
       "name": "derama__101"
+    },
+    "cregraphy_studio": {
+      "created_date": "2021-12-16 00:00:00",
+      "email": "0000@naver.com",
+      "phone": "010-0000-0000",
+      "expiry_date": null,
+      "name": "cregraphy_studio"
+    },
+    "d.eun.k": {
+      "created_date": "2021-12-16 00:00:00",
+      "email": "0000@naver.com",
+      "phone": "010-0000-0000",
+      "expiry_date": null,
+      "name": "cregraphy_studio"
     }
   }
 }
