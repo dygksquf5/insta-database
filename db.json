@@ -7,6 +7,10 @@
     "intel": "https://www.dropbox.com/s/p9yz8repqdc7ekp/%5Bintel%5Dinsta-auto.5_0_1.zip?dl=0",
     "window": "https://www.dropbox.com/s/bzm6r38xgeek9qw/%5Bwindow%5Dinsta-auto.5_0_1.zip?dl=0"
   },
+  "insta_collecting": {
+    "enable": true,
+    "except_words": null
+  },
   "users": {
     "yosuniiiii": {
       "created_date": "2021-01-01 00:00:00",
