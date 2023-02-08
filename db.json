@@ -9,7 +9,7 @@
   },
   "insta_collecting": {
     "enable": true,
-    "except_words": null
+    "except_words": ["일상"]
   },
   "users": {
     "yosuniiiii": {
