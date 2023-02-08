@@ -3,9 +3,9 @@
     "version": "5_0_1"
   },
   "platform": {
-    "m1" : "https://www.dropbox.com/s/n14dry47km7ilju/%5Bm1%5Dinsta-auto.5_0_1.zip?dl=0",
-    "intel": "https://www.dropbox.com/s/p9yz8repqdc7ekp/%5Bintel%5Dinsta-auto.5_0_1.zip?dl=0",
-    "window": "https://www.dropbox.com/s/bzm6r38xgeek9qw/%5Bwindow%5Dinsta-auto.5_0_1.zip?dl=0"
+    "m1" : "https://www.dropbox.com/s/4f62hp5jdrhdp28/%5Bm1%5Dinsta-auto.6_0_0.zip?dl=0",
+    "intel": "https://www.dropbox.com/s/m280wayat8p4a1l/%5Bintel%5Dinsta-auto.6_0_0.zip?dl=0",
+    "window": "https://www.dropbox.com/s/nfi3kcaxqcs904p/%5Bwindow%5Dinsta-auto.6_0_0.zip?dl=0"
   },
   "insta_collecting": {
     "enable": true,
