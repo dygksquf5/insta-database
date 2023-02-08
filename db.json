@@ -9,16 +9,9 @@
   },
   "insta_collecting": {
     "enable": true,
-    "except_words": ["일상", "런던일상"]
+    "except_words": null
   },
   "users": {
-    "yosuniiiii": {
-      "created_date": "2021-01-01 00:00:00",
-      "email": "0000@naver.com",
-      "phone": "010-0000-0000",
-      "expiry_date": null,
-      "name": "master"
-    },
     "lilyssong": {
       "created_date": "2021-10-13 00:00:00",
       "email": "0000@naver.com",
