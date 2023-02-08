@@ -9,7 +9,7 @@
   },
   "insta_collecting": {
     "enable": true,
-    "except_words": ["일상"]
+    "except_words": ["일상", "런던일상"]
   },
   "users": {
     "yosuniiiii": {
