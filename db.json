@@ -1,11 +1,11 @@
 {
   "version": {
-    "version": "5_0_1"
+    "version": "6_0_0"
   },
   "platform": {
-    "m1" : "https://www.dropbox.com/s/4f62hp5jdrhdp28/%5Bm1%5Dinsta-auto.6_0_0.zip?dl=0",
-    "intel": "https://www.dropbox.com/s/m280wayat8p4a1l/%5Bintel%5Dinsta-auto.6_0_0.zip?dl=0",
-    "window": "https://www.dropbox.com/s/nfi3kcaxqcs904p/%5Bwindow%5Dinsta-auto.6_0_0.zip?dl=0"
+    "m1" : "https://www.dropbox.com/s/skdioadxgmvxxp2/%5Bm1%5Dinsta-auto.6_0_0.zip?dl=0",
+    "intel": "https://www.dropbox.com/s/lry8248zyos3rsm/%5Bintel%5Dinsta-auto.6_0_0.zip?dl=0",
+    "window": "https://www.dropbox.com/s/7f7bjv687cozqg0/%5Bwindow%5Dinsta-auto.6_0_0.zip?dl=0"
   },
   "insta_collecting": {
     "enable": true,
@@ -292,76 +292,6 @@
       "phone": "010-0000-0000",
       "expiry_date": null,
       "name": "the_cosmosroga"
-    },
-    "aiggomo": {
-      "created_date": "2023-02-08 00:00:00",
-      "email": "1",
-      "phone": "010-0000-0000",
-      "expiry_date": null,
-      "name": "aiggomo"
-    },
-    "busan_okgagu_": {
-      "created_date": "2023-02-08 00:00:00",
-      "email": "2",
-      "phone": "010-0000-0000",
-      "expiry_date": null,
-      "name": "aiggomo"
-    },
-    "doitlikethis_official": {
-      "created_date": "2023-02-08 00:00:00",
-      "email": "3",
-      "phone": "010-0000-0000",
-      "expiry_date": null,
-      "name": "aiggomo"
-    },
-    "ms_physical_official": {
-      "created_date": "2023-02-08 00:00:00",
-      "email": "4",
-      "phone": "010-0000-0000",
-      "expiry_date": null,
-      "name": "aiggomo"
-    },
-    "openvillage2": {
-      "created_date": "2023-02-08 00:00:00",
-      "email": "5",
-      "phone": "010-0000-0000",
-      "expiry_date": null,
-      "name": "aiggomo"
-    },
-    "seomyeon_wfitness_official": {
-      "created_date": "2023-02-08 00:00:00",
-      "email": "6",
-      "phone": "010-0000-0000",
-      "expiry_date": null,
-      "name": "aiggomo"
-    },
-    "thinking_sketch_official": {
-      "created_date": "2023-02-08 00:00:00",
-      "email": "7",
-      "phone": "010-0000-0000",
-      "expiry_date": null,
-      "name": "aiggomo"
-    },
-    "gogoomadalda": {
-      "created_date": "2023-02-08 00:00:00",
-      "email": "8",
-      "phone": "010-0000-0000",
-      "expiry_date": null,
-      "name": "aiggomo"
-    },
-    "merryyeong": {
-      "created_date": "2023-02-08 00:00:00",
-      "email": "9",
-      "phone": "010-0000-0000",
-      "expiry_date": null,
-      "name": "aiggomo"
-    },
-    "woosoo_a": {
-      "created_date": "2023-02-08 00:00:00",
-      "email": "10",
-      "phone": "010-0000-0000",
-      "expiry_date": null,
-      "name": "aiggomo"
     }
   }
 }
