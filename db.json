@@ -362,6 +362,13 @@
       "phone": "010-0000-0000",
       "expiry_date": null,
       "name": "aiggomo"
+    },
+    "shop.ourhope": {
+      "created_date": "2023-02-08 00:00:00",
+      "email": "0000@naver.com",
+      "phone": "010-0000-0000",
+      "expiry_date": null,
+      "name": "shop.ourhope"
     }
   }
 }
