@@ -1,11 +1,11 @@
 {
   "version": {
-    "version": "6_1_0"
+    "version": "6_2_2"
   },
   "platform": {
-    "m1" : "https://www.dropbox.com/s/wqwm6jyf0en2tko/%5Bm1%5Dinsta-auto.6_1_0.zip?dl=0",
-    "intel": "https://www.dropbox.com/s/acl57840dh7motb/%5Bintel%5Dinsta-auto.6_1_0.zip?dl=0",
-    "window": "https://www.dropbox.com/s/5l4dyd7r5ws5l4i/%5Bwindow%5Dinsta-auto.6_1_0.zip?dl=0"
+    "m1" : "https://www.dropbox.com/s/3tnuwy1vvafvqv3/%5Bm1%5Dinsta-auto.6_2_2.zip?dl=0",
+    "intel": "https://www.dropbox.com/s/r7ec4vh26nvxi5s/%5Bintel%5Dinsta-auto.6_2_2.zip?dl=0",
+    "window": "https://www.dropbox.com/s/mkvna1uwk8kz0hk/%5Bwindow%5Dinsta-auto.6_2_2.zip?dl=0"
   },
   "insta_collecting": {
     "enable": true,
